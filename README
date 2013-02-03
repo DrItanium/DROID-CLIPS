@@ -1,0 +1,7 @@
+This is a port of CLIPS to Android.
+
+I will be adding more code as time goes on to allow CLIPS to take advantage of
+android specific features such as processor detection and such. 
+
+The main objective of this port is to provide another programming language to
+be used for android development.
